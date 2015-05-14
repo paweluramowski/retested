@@ -14,8 +14,6 @@ Have questions or suggestions? Feel free to contact me at any time:
 
 * [Twitter](http://twitter.com/paweluramowski)
 * [LinkedIn](https://www.linkedin.com/profile/view?id=201932972)
-  
-Thanks for reading!
 
 ## Tech
 
@@ -23,7 +21,5 @@ Some facts about the setup of this blog:
 
 * Powered by [Jekyll](http://jekyllrb.com)
 * Available to fork on [GitHub](https://github.com/paweluramowski)
-
-Have questions or suggestions? Feel free to contact me at any time.
 
 Thanks for reading!
