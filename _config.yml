@@ -13,8 +13,8 @@ baseurl:             ""
 
 # Navigation links
 pages_list:
-  About: '/about'
   Posts: '/posts'
+  About: '/about'
   Feed: '/atom.xml'
 
 # Assets
@@ -33,4 +33,4 @@ author:
 # Custom vars
 version:             1.0.0
 github:
-  repo:              https://github.com/paweluramowski/retested
+  repo:              https://github.com/paweluramowski/retested/
