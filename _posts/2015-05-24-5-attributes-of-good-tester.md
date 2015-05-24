@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 5 attributes of a good tester
+comments: true
 ---
 
 Recently I had an interesting discussion with friend of mine. We've been talking about our jobs, what makes testers good in what they're doing.
