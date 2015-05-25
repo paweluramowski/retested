@@ -15,7 +15,6 @@ baseurl:             ""
 pages_list:
   Posts: '/posts'
   About: '/about'
-  Feed: '/atom.xml'
 
 # Assets
 #
