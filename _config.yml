@@ -9,7 +9,7 @@ title:               Retested IT
 tagline:             Thoughts on quality management
 url:                 http://retested.it
 paginate:            1
-baseurl:             ""
+baseurl:             "/retested"
 
 # Navigation links
 pages_list:
