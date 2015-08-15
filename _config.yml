@@ -7,9 +7,9 @@ relative_permalinks: true
 # Setup
 title:               Retested IT
 tagline:             Thoughts on quality management
-url:                 http://paweluramowski.github.io
+url:                 http://retested.it
 paginate:            1
-baseurl:             "/retested"
+baseurl:             ""
 
 # Navigation links
 pages_list:
